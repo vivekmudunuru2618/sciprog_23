@@ -1,0 +1,9 @@
+These are codes for practical2. To compile:-
+
+gcc -lm -o Conversion Conversion.c
+Conversion
+
+gcc -o Sum Sum.c
+Sum
+
+Conversion and Sum are the executable files
