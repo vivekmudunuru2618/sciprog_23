@@ -1,0 +1,12 @@
+Week-3 
+
+
+1)The test file includes examples of the `printf` function. and  display various data types, such as integers (%d), floating-point numbers (%.nf)
+ gcc -lm -o tp1 tp1.c
+ ./tp1
+
+2)Exercise 3 solution
+gcc -m -o P1 P1.c
+./P1
+
+
