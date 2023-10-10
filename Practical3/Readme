@@ -6,7 +6,7 @@ Week-3
  ./tp1
 
 2)Exercise 3 solution
-gcc -m -o P1 PrintExercise.c
+gcc -m -o P1 PrintExercise3.c
 ./P1
 
 
